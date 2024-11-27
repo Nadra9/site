@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0pecd",
+  "description": "https://scrimba.com/s0pecd/s0gs2lmn8g/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
